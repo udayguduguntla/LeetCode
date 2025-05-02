@@ -29,6 +29,7 @@
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/udayguduguntla/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Enumeration
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/udayguduguntla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/udayguduguntla/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
 |  |
 | ------- |
