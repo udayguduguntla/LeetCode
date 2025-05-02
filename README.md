@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/udayguduguntla/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/udayguduguntla/LeetCode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/udayguduguntla/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/udayguduguntla/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udayguduguntla/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0149-max-points-on-a-line](https://github.com/udayguduguntla/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/udayguduguntla/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/udayguduguntla/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String Matching
 |  |
 | ------- |
