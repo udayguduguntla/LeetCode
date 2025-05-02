@@ -29,6 +29,7 @@
 | [0027-remove-element](https://github.com/udayguduguntla/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/udayguduguntla/LeetCode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/udayguduguntla/LeetCode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/udayguduguntla/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/udayguduguntla/LeetCode/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/udayguduguntla/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
