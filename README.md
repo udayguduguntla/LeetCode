@@ -70,6 +70,7 @@
 | [0567-permutation-in-string](https://github.com/udayguduguntla/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/udayguduguntla/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/udayguduguntla/LeetCode/tree/master/0837-most-common-word) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/udayguduguntla/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0011-container-with-most-water](https://github.com/udayguduguntla/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/udayguduguntla/LeetCode/tree/master/0055-jump-game) |
 | [0670-maximum-swap](https://github.com/udayguduguntla/LeetCode/tree/master/0670-maximum-swap) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/udayguduguntla/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/udayguduguntla/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/udayguduguntla/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
 | ------- |
