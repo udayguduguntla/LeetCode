@@ -45,6 +45,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayguduguntla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0837-most-common-word](https://github.com/udayguduguntla/LeetCode/tree/master/0837-most-common-word) |
 | [1002-maximum-width-ramp](https://github.com/udayguduguntla/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1044-find-common-characters](https://github.com/udayguduguntla/LeetCode/tree/master/1044-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/udayguduguntla/LeetCode/tree/master/0567-permutation-in-string) |
 | [0837-most-common-word](https://github.com/udayguduguntla/LeetCode/tree/master/0837-most-common-word) |
+| [1044-find-common-characters](https://github.com/udayguduguntla/LeetCode/tree/master/1044-find-common-characters) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0812-rotate-string](https://github.com/udayguduguntla/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/udayguduguntla/LeetCode/tree/master/0837-most-common-word) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/udayguduguntla/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1044-find-common-characters](https://github.com/udayguduguntla/LeetCode/tree/master/1044-find-common-characters) |
 ## Sliding Window
 |  |
 | ------- |
