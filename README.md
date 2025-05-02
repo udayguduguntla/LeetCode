@@ -18,6 +18,7 @@
 | [0067-add-binary](https://github.com/udayguduguntla/LeetCode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/udayguduguntla/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/udayguduguntla/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0670-maximum-swap](https://github.com/udayguduguntla/LeetCode/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/udayguduguntla/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/udayguduguntla/LeetCode/tree/master/0055-jump-game) |
+| [0670-maximum-swap](https://github.com/udayguduguntla/LeetCode/tree/master/0670-maximum-swap) |
 ## Trie
 |  |
 | ------- |
