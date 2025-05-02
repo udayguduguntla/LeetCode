@@ -1,12 +1,16 @@
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Math
+## String
 |  |
 | ------- |
-| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/udayguduguntla/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
-## Bit Manipulation
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Recursion
 |  |
 | ------- |
-| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/udayguduguntla/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
