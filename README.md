@@ -50,6 +50,7 @@
 | [0013-roman-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/udayguduguntla/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/udayguduguntla/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -63,10 +64,12 @@
 | [0058-length-of-last-word](https://github.com/udayguduguntla/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/udayguduguntla/LeetCode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/udayguduguntla/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udayguduguntla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/udayguduguntla/LeetCode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayguduguntla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/udayguduguntla/LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
