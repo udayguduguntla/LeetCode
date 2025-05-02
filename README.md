@@ -8,6 +8,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/udayguduguntla/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/udayguduguntla/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -24,12 +25,14 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/udayguduguntla/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/udayguduguntla/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2195-time-needed-to-buy-tickets](https://github.com/udayguduguntla/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Enumeration
 |  |
 | ------- |
