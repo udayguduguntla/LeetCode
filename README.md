@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -25,6 +26,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Enumeration
 |  |
@@ -40,6 +42,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/udayguduguntla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
