@@ -66,6 +66,7 @@
 | [0067-add-binary](https://github.com/udayguduguntla/LeetCode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/udayguduguntla/LeetCode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/udayguduguntla/LeetCode/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/udayguduguntla/LeetCode/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
