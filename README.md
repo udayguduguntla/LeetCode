@@ -16,6 +16,7 @@
 | [0013-roman-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/udayguduguntla/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/udayguduguntla/LeetCode/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/udayguduguntla/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## Recursion
 |  |
 | ------- |
@@ -37,12 +38,14 @@
 | [0078-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udayguduguntla/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0149-max-points-on-a-line](https://github.com/udayguduguntla/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/udayguduguntla/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udayguduguntla/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/udayguduguntla/LeetCode/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/0078-subsets) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/udayguduguntla/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
