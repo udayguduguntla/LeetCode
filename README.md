@@ -15,6 +15,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/udayguduguntla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/udayguduguntla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/udayguduguntla/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2308-divide-array-into-equal-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/udayguduguntla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,12 +90,14 @@
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/udayguduguntla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -125,4 +129,8 @@
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
