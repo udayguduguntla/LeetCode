@@ -13,6 +13,7 @@
 | [0007-reverse-integer](https://github.com/udayguduguntla/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/udayguduguntla/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/udayguduguntla/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/udayguduguntla/LeetCode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/udayguduguntla/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/udayguduguntla/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
