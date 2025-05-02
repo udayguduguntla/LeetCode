@@ -33,6 +33,7 @@
 | [0035-search-insert-position](https://github.com/udayguduguntla/LeetCode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/udayguduguntla/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/udayguduguntla/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,8 +103,13 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/udayguduguntla/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/udayguduguntla/LeetCode/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
