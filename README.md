@@ -10,6 +10,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/udayguduguntla/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/udayguduguntla/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2232-adding-spaces-to-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/udayguduguntla/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2195-time-needed-to-buy-tickets](https://github.com/udayguduguntla/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2232-adding-spaces-to-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/udayguduguntla/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/udayguduguntla/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/udayguduguntla/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2232-adding-spaces-to-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/udayguduguntla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/udayguduguntla/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
