@@ -44,6 +44,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/udayguduguntla/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayguduguntla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0837-most-common-word](https://github.com/udayguduguntla/LeetCode/tree/master/0837-most-common-word) |
+| [1002-maximum-width-ramp](https://github.com/udayguduguntla/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0088-merge-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udayguduguntla/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/udayguduguntla/LeetCode/tree/master/0567-permutation-in-string) |
+| [1002-maximum-width-ramp](https://github.com/udayguduguntla/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0020-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/udayguduguntla/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/udayguduguntla/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/udayguduguntla/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## String Matching
 |  |
 | ------- |
@@ -156,4 +159,8 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/udayguduguntla/LeetCode/tree/master/0837-most-common-word) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/udayguduguntla/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
