@@ -92,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/udayguduguntla/LeetCode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/udayguduguntla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -158,6 +159,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/udayguduguntla/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/udayguduguntla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
