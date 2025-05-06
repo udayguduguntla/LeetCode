@@ -60,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/udayguduguntla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/udayguduguntla/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/udayguduguntla/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -98,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/udayguduguntla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/udayguduguntla/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/udayguduguntla/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0125-valid-palindrome) |
@@ -163,6 +165,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/udayguduguntla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
