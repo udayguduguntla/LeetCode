@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/udayguduguntla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2083-three-divisors](https://github.com/udayguduguntla/LeetCode/tree/master/2083-three-divisors) |
@@ -178,4 +179,5 @@
 | [0141-linked-list-cycle](https://github.com/udayguduguntla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
