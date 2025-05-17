@@ -4,4 +4,4 @@ class Solution:
         for i in set(nums):
             d[i]=nums.count(i)
         m=max(d.values())
-        return sum([i for i in d.values() if i==m])
+        return sum(i for i in d.values() if i==m)
