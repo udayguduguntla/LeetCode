@@ -11,6 +11,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/udayguduguntla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1656-count-good-triplets](https://github.com/udayguduguntla/LeetCode/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/udayguduguntla/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -62,6 +63,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/udayguduguntla/LeetCode/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/udayguduguntla/LeetCode/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
