@@ -101,6 +101,7 @@
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -209,4 +210,16 @@
 | [0142-linked-list-cycle-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
