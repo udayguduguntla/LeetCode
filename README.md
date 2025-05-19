@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/udayguduguntla/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/udayguduguntla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -58,6 +59,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/udayguduguntla/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -84,6 +86,7 @@
 | [0125-valid-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/udayguduguntla/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/udayguduguntla/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/udayguduguntla/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/udayguduguntla/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
