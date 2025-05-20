@@ -47,6 +47,7 @@
 | [2083-three-divisors](https://github.com/udayguduguntla/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/udayguduguntla/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/udayguduguntla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
@@ -72,6 +73,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/udayguduguntla/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2195-time-needed-to-buy-tickets](https://github.com/udayguduguntla/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2470-removing-stars-from-a-string) |
