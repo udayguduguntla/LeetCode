@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udayguduguntla/LeetCode/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/udayguduguntla/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/udayguduguntla/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -84,12 +86,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/udayguduguntla/LeetCode/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/udayguduguntla/LeetCode/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/udayguduguntla/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
