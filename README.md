@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/udayguduguntla/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -60,6 +61,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -78,6 +80,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/udayguduguntla/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
