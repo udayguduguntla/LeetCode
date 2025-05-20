@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udayguduguntla/LeetCode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/udayguduguntla/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/udayguduguntla/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/udayguduguntla/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/udayguduguntla/LeetCode/tree/master/0344-reverse-string) |
@@ -133,6 +135,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/udayguduguntla/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -170,6 +173,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udayguduguntla/LeetCode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
