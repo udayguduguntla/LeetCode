@@ -34,6 +34,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/udayguduguntla/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/udayguduguntla/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3639-zero-array-transformation-i](https://github.com/udayguduguntla/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Dynamic Programming
 |  |
 | ------- |
