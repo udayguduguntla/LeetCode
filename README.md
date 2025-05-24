@@ -35,6 +35,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/udayguduguntla/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/udayguduguntla/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/udayguduguntla/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/udayguduguntla/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -129,6 +130,7 @@
 | [2727-number-of-senior-citizens](https://github.com/udayguduguntla/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/udayguduguntla/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/udayguduguntla/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/udayguduguntla/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
