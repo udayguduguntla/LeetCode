@@ -126,6 +126,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/udayguduguntla/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2401-count-asterisks](https://github.com/udayguduguntla/LeetCode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/udayguduguntla/LeetCode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/udayguduguntla/LeetCode/tree/master/2727-number-of-senior-citizens) |
