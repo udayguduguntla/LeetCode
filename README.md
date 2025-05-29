@@ -62,6 +62,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/udayguduguntla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/udayguduguntla/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/udayguduguntla/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion
