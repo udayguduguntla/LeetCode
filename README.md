@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/udayguduguntla/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/udayguduguntla/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/udayguduguntla/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -171,6 +172,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/udayguduguntla/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/udayguduguntla/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/udayguduguntla/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/udayguduguntla/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -236,6 +238,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/udayguduguntla/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Greedy
 |  |
