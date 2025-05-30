@@ -25,6 +25,7 @@
 | [1656-count-good-triplets](https://github.com/udayguduguntla/LeetCode/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/udayguduguntla/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/udayguduguntla/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -351,6 +352,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/udayguduguntla/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/udayguduguntla/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Bucket Sort
 |  |
 | ------- |
