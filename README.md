@@ -125,6 +125,7 @@
 | [0383-ransom-note](https://github.com/udayguduguntla/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/udayguduguntla/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -169,6 +170,7 @@
 | [0242-valid-anagram](https://github.com/udayguduguntla/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/udayguduguntla/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -212,6 +214,7 @@
 | [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udayguduguntla/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/udayguduguntla/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/udayguduguntla/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -242,6 +245,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/udayguduguntla/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/udayguduguntla/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -257,6 +261,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/udayguduguntla/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
@@ -328,4 +333,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/udayguduguntla/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
