@@ -1,8 +1,12 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        st=list(set(s));m=len(s);i=0;f=0
-        while i<len(st):
-            if s.count(st[i])==1 and s.index(st[i])<m:
-                m=s.index(st[i]);f=1
-            i+=1
-        return m if f==1 else -1
+        d={}
+        for i in s:
+            if i not in d:
+                d[i]=1
+            else:
+                d[i]+=1
+        for i in range(len(s)):
+            if d[s[i]]==1:
+                return i
+        return -1
