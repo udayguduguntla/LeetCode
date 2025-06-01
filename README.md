@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/udayguduguntla/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/udayguduguntla/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
