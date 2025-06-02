@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/udayguduguntla/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/udayguduguntla/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -378,4 +379,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/udayguduguntla/LeetCode/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/udayguduguntla/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
