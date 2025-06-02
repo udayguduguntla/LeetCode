@@ -58,6 +58,7 @@
 | [0171-excel-sheet-column-number](https://github.com/udayguduguntla/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/udayguduguntla/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/udayguduguntla/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -82,6 +83,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/udayguduguntla/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/udayguduguntla/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -288,6 +290,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/udayguduguntla/LeetCode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/udayguduguntla/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
