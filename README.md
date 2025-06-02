@@ -131,6 +131,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/udayguduguntla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/udayguduguntla/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/udayguduguntla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/udayguduguntla/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/udayguduguntla/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/udayguduguntla/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0125-valid-palindrome) |
@@ -255,6 +257,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/udayguduguntla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sliding Window
 |  |
