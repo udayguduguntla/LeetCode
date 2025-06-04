@@ -1,5 +1,5 @@
 class Solution:
+    def lenOfSentences(self,s):
+        return len(s.split())
     def mostWordsFound(self, sentences: List[str]) -> int:
-        for i in range(len(sentences)):
-            sentences[i] = sentences[i].split()
-        return len(max(sentences,key=len))
+        return max(map(self.lenOfSentences, sentences))
