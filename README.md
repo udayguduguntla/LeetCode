@@ -153,6 +153,7 @@
 | [0005-longest-palindromic-substring](https://github.com/udayguduguntla/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/udayguduguntla/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -193,6 +194,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/udayguduguntla/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/udayguduguntla/LeetCode/tree/master/1013-fibonacci-number) |
