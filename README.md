@@ -24,6 +24,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/udayguduguntla/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/udayguduguntla/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/udayguduguntla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udayguduguntla/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -223,6 +224,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/udayguduguntla/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
