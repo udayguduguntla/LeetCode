@@ -73,6 +73,7 @@
 | [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/udayguduguntla/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/udayguduguntla/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/udayguduguntla/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/udayguduguntla/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/udayguduguntla/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/udayguduguntla/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/udayguduguntla/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
