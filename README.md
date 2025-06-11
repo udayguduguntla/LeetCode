@@ -58,6 +58,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/udayguduguntla/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/udayguduguntla/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/udayguduguntla/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -89,6 +90,7 @@
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/udayguduguntla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/udayguduguntla/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2998-count-symmetric-integers](https://github.com/udayguduguntla/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
@@ -228,6 +230,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/udayguduguntla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/udayguduguntla/LeetCode/tree/master/2634-minimum-common-value) |
+| [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -408,6 +411,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/udayguduguntla/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/udayguduguntla/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bucket Sort
 |  |
 | ------- |
