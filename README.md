@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/udayguduguntla/LeetCode/tree/master/0029-divide-two-integers) |
 | [0171-excel-sheet-column-number](https://github.com/udayguduguntla/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/udayguduguntla/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
@@ -334,6 +335,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/udayguduguntla/LeetCode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/udayguduguntla/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/udayguduguntla/LeetCode/tree/master/0342-power-of-four) |
