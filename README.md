@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/udayguduguntla/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0137-single-number-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/udayguduguntla/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/udayguduguntla/LeetCode/tree/master/0217-contains-duplicate) |
@@ -327,6 +328,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/udayguduguntla/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/udayguduguntla/LeetCode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/udayguduguntla/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
