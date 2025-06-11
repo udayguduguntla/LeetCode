@@ -197,6 +197,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/udayguduguntla/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/udayguduguntla/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/udayguduguntla/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/udayguduguntla/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -246,6 +247,7 @@
 | [2634-minimum-common-value](https://github.com/udayguduguntla/LeetCode/tree/master/2634-minimum-common-value) |
 | [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/udayguduguntla/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Two Pointers
 |  |
 | ------- |
