@@ -203,6 +203,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/udayguduguntla/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/udayguduguntla/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/udayguduguntla/LeetCode/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/udayguduguntla/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/udayguduguntla/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
