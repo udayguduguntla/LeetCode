@@ -132,6 +132,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/udayguduguntla/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/udayguduguntla/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2886-faulty-keyboard](https://github.com/udayguduguntla/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/udayguduguntla/LeetCode/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
@@ -194,6 +195,7 @@
 | [2580-circular-sentence](https://github.com/udayguduguntla/LeetCode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/udayguduguntla/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/udayguduguntla/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2886-faulty-keyboard](https://github.com/udayguduguntla/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/udayguduguntla/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/udayguduguntla/LeetCode/tree/master/3195-separate-black-and-white-balls) |
