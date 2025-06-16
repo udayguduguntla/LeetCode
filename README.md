@@ -44,6 +44,7 @@
 | [2058-concatenation-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/udayguduguntla/LeetCode/tree/master/2122-count-special-quadruplets) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/udayguduguntla/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/udayguduguntla/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/udayguduguntla/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
