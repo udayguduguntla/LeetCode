@@ -19,10 +19,17 @@ class Solution:
         # return False
 
         # approach - 2
+        # s = set()
+        # while head:
+        #     if head in s:   return True
+        #     s.add(head)
+        #     head=head.next
+        # return False
 
-        s = set()
-        while head:
-            if head in s:   return True
-            s.add(head)
-            head=head.next
+        # approach - 3
+        slow,fast=head,head
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+            if fast == slow: return True
         return False
