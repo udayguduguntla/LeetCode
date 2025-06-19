@@ -69,6 +69,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/udayguduguntla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3639-zero-array-transformation-i](https://github.com/udayguduguntla/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/udayguduguntla/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
@@ -273,6 +274,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/udayguduguntla/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/udayguduguntla/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/udayguduguntla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/udayguduguntla/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -433,6 +435,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/udayguduguntla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
