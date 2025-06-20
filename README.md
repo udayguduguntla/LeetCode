@@ -67,6 +67,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/udayguduguntla/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/udayguduguntla/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/udayguduguntla/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/udayguduguntla/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/udayguduguntla/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -404,6 +405,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/udayguduguntla/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
