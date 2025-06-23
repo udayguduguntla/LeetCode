@@ -96,6 +96,7 @@
 | [0507-perfect-number](https://github.com/udayguduguntla/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0897-prime-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/udayguduguntla/LeetCode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/udayguduguntla/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/udayguduguntla/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/udayguduguntla/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
+| [0897-prime-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0897-prime-palindrome) |
 | [2083-three-divisors](https://github.com/udayguduguntla/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
