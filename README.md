@@ -58,6 +58,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/udayguduguntla/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2232-adding-spaces-to-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/udayguduguntla/LeetCode/tree/master/2386-min-max-game) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -325,6 +326,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/udayguduguntla/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/udayguduguntla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/udayguduguntla/LeetCode/tree/master/2634-minimum-common-value) |
