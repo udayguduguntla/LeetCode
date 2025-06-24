@@ -3,8 +3,8 @@ class Solution:
         indices = [i for i, x in enumerate(nums) if x == key]
         res = set()
         for i in range(len(nums)):
-            if i not in res:
-                for j in indices:
-                    if abs(i-j) <= k:
-                        res.add(i)
+            for j in indices:
+                if abs(i-j) <= k:
+                    res.add(i)
+                    break
         return list(res)
