@@ -209,6 +209,7 @@
 | [0500-keyboard-row](https://github.com/udayguduguntla/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/udayguduguntla/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/udayguduguntla/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/udayguduguntla/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/udayguduguntla/LeetCode/tree/master/0742-to-lower-case) |
 | [0953-reverse-only-letters](https://github.com/udayguduguntla/LeetCode/tree/master/0953-reverse-only-letters) |
