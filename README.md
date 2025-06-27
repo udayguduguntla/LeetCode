@@ -82,6 +82,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
+| [3373-maximum-prime-difference](https://github.com/udayguduguntla/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/udayguduguntla/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3639-zero-array-transformation-i](https://github.com/udayguduguntla/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/udayguduguntla/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -130,6 +131,7 @@
 | [2998-count-symmetric-integers](https://github.com/udayguduguntla/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
+| [3373-maximum-prime-difference](https://github.com/udayguduguntla/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/udayguduguntla/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2873-prime-pairs-with-target-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3373-maximum-prime-difference](https://github.com/udayguduguntla/LeetCode/tree/master/3373-maximum-prime-difference) |
 ## String
 |  |
 | ------- |
