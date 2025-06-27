@@ -94,6 +94,7 @@
 | [0231-power-of-two](https://github.com/udayguduguntla/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/udayguduguntla/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/udayguduguntla/LeetCode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/udayguduguntla/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/udayguduguntla/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
@@ -274,6 +275,7 @@
 | [0217-contains-duplicate](https://github.com/udayguduguntla/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/udayguduguntla/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/udayguduguntla/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/udayguduguntla/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -433,6 +435,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/udayguduguntla/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -450,6 +453,7 @@
 | [0032-longest-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0264-ugly-number-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/udayguduguntla/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/udayguduguntla/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/udayguduguntla/LeetCode/tree/master/1013-fibonacci-number) |
