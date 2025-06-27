@@ -72,6 +72,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/udayguduguntla/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/udayguduguntla/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/udayguduguntla/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2873-prime-pairs-with-target-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/udayguduguntla/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/udayguduguntla/LeetCode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -124,6 +125,7 @@
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/udayguduguntla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/udayguduguntla/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2873-prime-pairs-with-target-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2998-count-symmetric-integers](https://github.com/udayguduguntla/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
@@ -180,6 +182,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2507-number-of-common-factors](https://github.com/udayguduguntla/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/udayguduguntla/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2873-prime-pairs-with-target-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2998-count-symmetric-integers](https://github.com/udayguduguntla/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
@@ -190,6 +193,7 @@
 | [2083-three-divisors](https://github.com/udayguduguntla/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/udayguduguntla/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2873-prime-pairs-with-target-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 ## String
 |  |
 | ------- |
