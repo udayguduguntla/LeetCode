@@ -123,6 +123,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/udayguduguntla/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2491-smallest-even-multiple](https://github.com/udayguduguntla/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/udayguduguntla/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/udayguduguntla/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/udayguduguntla/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -195,6 +196,7 @@
 | [0897-prime-palindrome](https://github.com/udayguduguntla/LeetCode/tree/master/0897-prime-palindrome) |
 | [2083-three-divisors](https://github.com/udayguduguntla/LeetCode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/udayguduguntla/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/udayguduguntla/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/udayguduguntla/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2873-prime-pairs-with-target-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3373-maximum-prime-difference](https://github.com/udayguduguntla/LeetCode/tree/master/3373-maximum-prime-difference) |
