@@ -134,6 +134,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/udayguduguntla/LeetCode/tree/master/3373-maximum-prime-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/udayguduguntla/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/udayguduguntla/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/udayguduguntla/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/udayguduguntla/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/udayguduguntla/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/udayguduguntla/LeetCode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/udayguduguntla/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -448,6 +451,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/udayguduguntla/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/udayguduguntla/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
