@@ -70,6 +70,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2634-minimum-common-value](https://github.com/udayguduguntla/LeetCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/udayguduguntla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/udayguduguntla/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/udayguduguntla/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/udayguduguntla/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -316,6 +317,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/udayguduguntla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/udayguduguntla/LeetCode/tree/master/2634-minimum-common-value) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/udayguduguntla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/udayguduguntla/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -376,6 +378,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/udayguduguntla/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/udayguduguntla/LeetCode/tree/master/2634-minimum-common-value) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/udayguduguntla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -398,6 +401,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/udayguduguntla/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/udayguduguntla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3321-type-of-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/3321-type-of-triangle) |
 ## String Matching
 |  |
@@ -418,6 +422,7 @@
 | [2199-two-furthest-houses-with-different-colors](https://github.com/udayguduguntla/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/udayguduguntla/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/udayguduguntla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/udayguduguntla/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
