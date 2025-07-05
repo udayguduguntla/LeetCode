@@ -39,6 +39,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/udayguduguntla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/udayguduguntla/LeetCode/tree/master/1449-print-words-vertically) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udayguduguntla/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/udayguduguntla/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/udayguduguntla/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -309,6 +310,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/udayguduguntla/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/udayguduguntla/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -435,6 +437,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/udayguduguntla/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
