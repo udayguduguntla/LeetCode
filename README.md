@@ -580,4 +580,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/udayguduguntla/LeetCode/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/udayguduguntla/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
