@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/udayguduguntla/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/udayguduguntla/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/udayguduguntla/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/udayguduguntla/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -453,6 +454,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/udayguduguntla/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/udayguduguntla/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/udayguduguntla/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -497,6 +499,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
 |  |
