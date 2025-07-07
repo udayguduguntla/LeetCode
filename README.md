@@ -378,6 +378,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/udayguduguntla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/udayguduguntla/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/udayguduguntla/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
@@ -461,6 +462,7 @@
 | [0190-reverse-bits](https://github.com/udayguduguntla/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/udayguduguntla/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/udayguduguntla/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/udayguduguntla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/udayguduguntla/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/udayguduguntla/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/udayguduguntla/LeetCode/tree/master/0342-power-of-four) |
@@ -532,6 +534,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/udayguduguntla/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/udayguduguntla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -550,6 +553,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/udayguduguntla/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/udayguduguntla/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
