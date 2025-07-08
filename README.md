@@ -246,6 +246,7 @@
 | [1449-print-words-vertically](https://github.com/udayguduguntla/LeetCode/tree/master/1449-print-words-vertically) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/udayguduguntla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/udayguduguntla/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/udayguduguntla/LeetCode/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/udayguduguntla/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/udayguduguntla/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
