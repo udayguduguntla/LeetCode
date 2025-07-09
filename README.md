@@ -264,6 +264,7 @@
 | [2580-circular-sentence](https://github.com/udayguduguntla/LeetCode/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/udayguduguntla/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/udayguduguntla/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2825-minimize-string-length](https://github.com/udayguduguntla/LeetCode/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/udayguduguntla/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/udayguduguntla/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -327,6 +328,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/udayguduguntla/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/udayguduguntla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2825-minimize-string-length](https://github.com/udayguduguntla/LeetCode/tree/master/2825-minimize-string-length) |
 | [3227-find-missing-and-repeated-values](https://github.com/udayguduguntla/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/udayguduguntla/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
