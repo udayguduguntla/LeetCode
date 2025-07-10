@@ -281,6 +281,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/udayguduguntla/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/udayguduguntla/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/udayguduguntla/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -612,4 +613,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/udayguduguntla/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/udayguduguntla/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
