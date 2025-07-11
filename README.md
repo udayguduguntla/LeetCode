@@ -434,6 +434,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/udayguduguntla/LeetCode/tree/master/0397-integer-replacement) |
 | [0979-di-string-match](https://github.com/udayguduguntla/LeetCode/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/udayguduguntla/LeetCode/tree/master/1448-maximum-69-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/udayguduguntla/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -476,6 +477,7 @@
 | [0342-power-of-four](https://github.com/udayguduguntla/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/udayguduguntla/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/udayguduguntla/LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/udayguduguntla/LeetCode/tree/master/0397-integer-replacement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/udayguduguntla/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -508,6 +510,7 @@
 | [0264-ugly-number-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/udayguduguntla/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/udayguduguntla/LeetCode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/udayguduguntla/LeetCode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/udayguduguntla/LeetCode/tree/master/1013-fibonacci-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -596,6 +599,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/udayguduguntla/LeetCode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/udayguduguntla/LeetCode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/udayguduguntla/LeetCode/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
