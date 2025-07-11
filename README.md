@@ -109,6 +109,7 @@
 | [0326-power-of-three](https://github.com/udayguduguntla/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/udayguduguntla/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/udayguduguntla/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/udayguduguntla/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/udayguduguntla/LeetCode/tree/master/0507-perfect-number) |
@@ -233,6 +234,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/udayguduguntla/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/udayguduguntla/LeetCode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/udayguduguntla/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/udayguduguntla/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/udayguduguntla/LeetCode/tree/master/0500-keyboard-row) |
@@ -478,6 +480,7 @@
 | [0371-sum-of-two-integers](https://github.com/udayguduguntla/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/udayguduguntla/LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/udayguduguntla/LeetCode/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/udayguduguntla/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/udayguduguntla/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
