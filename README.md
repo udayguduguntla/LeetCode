@@ -38,6 +38,7 @@
 | [0983-validate-stack-sequences](https://github.com/udayguduguntla/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/udayguduguntla/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1293-three-consecutive-odds](https://github.com/udayguduguntla/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/udayguduguntla/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/udayguduguntla/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -255,6 +256,7 @@
 | [0953-reverse-only-letters](https://github.com/udayguduguntla/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0979-di-string-match](https://github.com/udayguduguntla/LeetCode/tree/master/0979-di-string-match) |
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/udayguduguntla/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/udayguduguntla/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/udayguduguntla/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -335,6 +337,7 @@
 | [0500-keyboard-row](https://github.com/udayguduguntla/LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/udayguduguntla/LeetCode/tree/master/0645-set-mismatch) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/udayguduguntla/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/udayguduguntla/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -409,6 +412,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/udayguduguntla/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/udayguduguntla/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/udayguduguntla/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/udayguduguntla/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -432,6 +436,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/udayguduguntla/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/udayguduguntla/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/udayguduguntla/LeetCode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1306-minimum-absolute-difference](https://github.com/udayguduguntla/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/udayguduguntla/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
