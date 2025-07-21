@@ -81,6 +81,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/udayguduguntla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/udayguduguntla/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/udayguduguntla/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/udayguduguntla/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/udayguduguntla/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/udayguduguntla/LeetCode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/udayguduguntla/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -462,6 +463,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/udayguduguntla/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/udayguduguntla/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/udayguduguntla/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/udayguduguntla/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/udayguduguntla/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/udayguduguntla/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
