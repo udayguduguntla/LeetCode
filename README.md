@@ -44,6 +44,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/udayguduguntla/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/udayguduguntla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/udayguduguntla/LeetCode/tree/master/1449-print-words-vertically) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/udayguduguntla/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/udayguduguntla/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -432,6 +433,7 @@
 | [0645-set-mismatch](https://github.com/udayguduguntla/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/udayguduguntla/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/udayguduguntla/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/udayguduguntla/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/udayguduguntla/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/udayguduguntla/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/udayguduguntla/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -475,6 +477,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/udayguduguntla/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/udayguduguntla/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/udayguduguntla/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/udayguduguntla/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -504,6 +507,7 @@
 | [0645-set-mismatch](https://github.com/udayguduguntla/LeetCode/tree/master/0645-set-mismatch) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/udayguduguntla/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/udayguduguntla/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/udayguduguntla/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/udayguduguntla/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/udayguduguntla/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
