@@ -40,6 +40,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/udayguduguntla/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/udayguduguntla/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/udayguduguntla/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/udayguduguntla/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/udayguduguntla/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/udayguduguntla/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1449-print-words-vertically](https://github.com/udayguduguntla/LeetCode/tree/master/1449-print-words-vertically) |
@@ -253,6 +254,7 @@
 | [0979-di-string-match](https://github.com/udayguduguntla/LeetCode/tree/master/0979-di-string-match) |
 | [1197-parsing-a-boolean-expression](https://github.com/udayguduguntla/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/udayguduguntla/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/udayguduguntla/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/udayguduguntla/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1449-print-words-vertically](https://github.com/udayguduguntla/LeetCode/tree/master/1449-print-words-vertically) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/udayguduguntla/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -578,6 +580,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/udayguduguntla/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/udayguduguntla/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/udayguduguntla/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -626,6 +629,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/udayguduguntla/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/udayguduguntla/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Interactive
 |  |
 | ------- |
